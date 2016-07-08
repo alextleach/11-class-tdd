@@ -1,4 +1,5 @@
-export default function Foo() {
+export default class Foo {
 
 
-};
+
+}
