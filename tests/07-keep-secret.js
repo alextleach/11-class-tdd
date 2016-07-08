@@ -9,7 +9,7 @@
     const dontTellNobody = new KeepSecret(mySecret);
 
     assert.ok(dontTellNobody instanceof KeepSecret,
-    'Create a new class called \'KeepSecret\' that takes a single argument' +
+    'Create a new class called \'KeepSecret\' that takes a single argument ' +
     'and stores for later');
 
     // Checks to see you didn't store "dontTellNobody" on `this`
